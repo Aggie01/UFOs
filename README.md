@@ -10,7 +10,7 @@
 
 # Results
 - Every UFO sighting is available to view in a table format
-- Self-contained code is used to fill the table with data based on the following filters: country, state, city, date of sighting and shape of object. See below image: 
+- Self-contained code is used to fill the table with data based on the following filters: country, state, city, date of sighting and shape of object. See image below: 
 
 
 
