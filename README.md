@@ -2,7 +2,7 @@
 # Overview
 - Integrate rather extensive data of UFO sightings into an organized table
 - Table should store, display and sort all of the UFO sighting data
-- Build visually appealing HTML page to present the data
+- Build visually appealing and user friendly HTML page to present the data
 
 # Methodology
 - JavaScript
@@ -19,5 +19,7 @@
 
 
 # Summary
+- Additional filters can be added so the search criteria becomes more detailed and specific
+- Expanding data b providing additional variables such as, source of data information, UFO photos/drawings, witnesses (ordinary citizens, government officials, military personel)
 
 
