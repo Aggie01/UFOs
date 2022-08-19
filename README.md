@@ -20,6 +20,6 @@
 
 # Summary
 - Additional filters can be added so the search criteria becomes more detailed and specific
-- Expanding data b providing additional variables such as, source of data information, UFO photos/drawings, witnesses (ordinary citizens, government officials, military personel)
+- Expanding data by creating new variables such as, source of data information, UFO photos/drawings, witnesses (ordinary citizens, government officials, military personel)
 
 
